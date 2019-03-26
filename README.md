@@ -1,2 +1,3 @@
 # MyFirst
-my first git project
+My first git project
+adding a line.
