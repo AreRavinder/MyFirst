@@ -3,3 +3,5 @@ My new text file
 First Edit now.
 
 Second Edit
+
+Third Edit
